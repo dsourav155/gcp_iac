@@ -3,6 +3,7 @@ terraform {
     google = {
       version = ">= 4.51.0"
     }
+
   }
 }
 
